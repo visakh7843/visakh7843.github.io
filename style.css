@@ -58,7 +58,7 @@ body {
   align-items: flex-end;
   font-weight: bold;
   color: orange;
-  margin-left: 40%;
+  margin-left: 31%;
 }
 .wrapper > div:after {
   
@@ -87,7 +87,7 @@ body {
 
 
 .fa{
-  font-size: 1.5vw;
+  font-size: 3vw
   
 }
 ul {
@@ -95,7 +95,7 @@ ul {
   justify-content: space-between;
   list-style-type: none;
   font-size: 2em;
-  width: 120%;
+  width: 130%;
   
   
 }
@@ -145,5 +145,8 @@ a {
   .wrapper > div{
       text-align: justify;
   }
-
+  .fa{
+    font-size: 2em;
+    
+  }
 }
